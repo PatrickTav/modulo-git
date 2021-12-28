@@ -1,5 +1,2 @@
-Meu sistema no git agora com mod
+Meu sistema no git agora com mod (alterado e atualizado)
 
-Alterações no Readme para descrever
-
-adicionando uma linha legal
